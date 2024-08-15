@@ -31,6 +31,6 @@
 
 
 .journal-item__body {
-  display: flex;
+  display: flex;  
   gap: 10px;
 }
